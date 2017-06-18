@@ -12,12 +12,15 @@ exclude: ['README.md']
 
 # About/contact
 author:
+  name:              Aalok Sathe
   name:              Mandar Juvekar
   email:             mjuvekar7@gmail.com
+  name:              Shardul Chiplunkar
+  email:             shardul.chiplunkar@gmail.com
 
 # Custom vars
 github:
-  repo:              https://github.com/theshorttamperedclavier/theshorttamperedclavier
+  repo:              https://github.com/theshorttamperedclavier/theshorttamperedclavier.github.io
 
 # Gems
 gems:
