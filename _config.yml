@@ -11,12 +11,8 @@ paginate_path:       '/blog/page:num/'
 exclude: ['README.md']
 
 # About/contact
-author:
-  name:              Aalok Sathe
-  name:              Mandar Juvekar
-  email:             mjuvekar7@gmail.com
-  name:              Shardul Chiplunkar
-  email:             shardul.chiplunkar@gmail.com
+authors:
+  names:             Aalok Sathe, Mandar Juvekar, Shardul Chiplunkar
 
 # Custom vars
 github:
