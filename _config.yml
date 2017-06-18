@@ -1,0 +1,25 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               The Short, Tampered Clavier
+tagline:             A Fugue in C++
+#url:                "http://theshorttamperedclavier.github.io"
+baseurl:             ""
+paginate:            5
+paginate_path:       '/blog/page:num/'
+exclude: ['README.md']
+
+# About/contact
+author:
+  name:              Mandar Juvekar
+  email:             mjuvekar7@gmail.com
+
+# Custom vars
+github:
+  repo:              https://github.com/theshorttamperedclavier/theshorttamperedclavier
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist

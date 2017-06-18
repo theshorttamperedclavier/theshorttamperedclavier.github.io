@@ -1,2 +1,1 @@
-# theshorttamperedclavier.github.io
-A fun jekyll blog.
+A fun Jekyll blog.
