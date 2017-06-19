@@ -1,0 +1,28 @@
+<!-- Comment form -->
+<p>
+    <h3>Leave a Comment</h3>
+    <form method="POST" action="https://api.staicman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+        <input name="options[redirect]" type="hidden" value="http://theshorttamperedclavier.github.io/">
+        <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+        <div>
+            <legend>Name</legend>
+            <input name="fields[name]" type="text">
+        </div>
+        <div>
+            <legend>E-mail (optional)</legend>
+            <input name="fields[name]" type="email">
+        </div>
+        <div>
+            <legend>Website (optional)</legend>
+            <input name="fields[url]" type="url">
+        </div>
+        <div>
+            <legend>Message (Markdown allowed)</legend>
+            <textarea style="width:100%" name="fields[message]" rows="12"></textarea>
+        </div>
+        <div>
+            <legend><em>Comments will appear after moderation.</em></legend>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</p>

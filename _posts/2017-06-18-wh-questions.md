@@ -36,3 +36,5 @@ he'll just write posts about how busy he is and what he's busy with, so that
 *W[h]ow, I'm excited!* That's not a question. But do drop by and read through
 our newbie attempts at blogging! We'd love to hear from you readers
 <a href="/about/">by email</a> too.
+
+{% include comments.html %}

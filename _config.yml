@@ -18,6 +18,12 @@ github:
   repo:              https://github.com/theshorttamperedclavier/theshorttamperedclavier.github.io
 excerpt-words:       100
 
+# Staticman configuration
+repository: "theshorttamperedclavier/theshorttamperedclavier.github.io"
+
+staticman:
+    branch: "master"
+
 # Gems
 gems:
   - jekyll-paginate
