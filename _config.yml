@@ -16,6 +16,7 @@ authors:
 # Custom vars
 github:
   repo:              https://github.com/theshorttamperedclavier/theshorttamperedclavier.github.io
+excerpt-words:       100
 
 # Gems
 gems:
