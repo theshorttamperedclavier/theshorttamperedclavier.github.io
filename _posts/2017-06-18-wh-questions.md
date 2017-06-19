@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Wh-' Questions
+title: "'Wh-' Questions"
 ---
 
-*What is this? *This is a blog. We wanted to add adjectives like 'personal' or
+*What is this?* This is a blog. We wanted to add adjectives like 'personal' or
 'opinion' or 'cool' but realized that they won't always be applicable, so this
 is just a blog.
 
-*Who/what/where are you?* Check out the <a href="/about.html">About</a> page.
+*Who/what/where are you?* Check out the <a href="/about/">About</a> page.
 
 *Why are you doing this?* Good question. Mainly because we've been talking about
 a lot of stuff and now want to write about it, but also because we aren't happy
@@ -35,4 +35,4 @@ he'll just write posts about how busy he is and what he's busy with, so that
 
 *W[h]ow, I'm excited!* That's not a question. But do drop by and read through
 our newbie attempts at blogging! We'd love to hear from you readers
-<a href="/about.html">by email</a> too.
+<a href="/about/">by email</a> too.
