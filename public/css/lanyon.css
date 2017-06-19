@@ -356,6 +356,28 @@ a.sidebar-nav-item:focus {
   color: inherit;
 }
 
+/* Custom CSS for forms (for comments) */
+#comment-form textarea, input, button {
+  font-family: inherit;
+  font-size: inherit;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+#comment-form textarea {
+  width: 100%;
+  resize: none;
+  -webkit-appearance: textfield;
+  -moz-appearance: textfield;
+  appearance: textfield;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#comment-form div {
+  margin-bottom: 15px;
+}
+
 
 /*
  * Pagination

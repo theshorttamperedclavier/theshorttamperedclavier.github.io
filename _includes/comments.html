@@ -15,9 +15,8 @@
 
   {% assign comments = site.data.comments[page.slug] | sort %}
 
-  <p>
+  <div>
     {% for comment in comments %}
-      <br>
       <legend>
         {% if comment[1].url %}
           <a href="{{ comment[1].url }}">
@@ -27,38 +26,30 @@
           </a>
         {% endif %}
       </legend>
-      <em>{{ comment[1].date | date: "%B %d, %Y" }}</em>
-      <p>{{ comment[1].message | markdownify }}</p>
+      <em>{{ comment[1].date | date: "%d %b %Y" }}</em>
+      {{ comment[1].message | markdownify }}
       <hr>
     {% endfor %}
-  </p>
+  </div>
 {% endif %}
 
 <!-- Comment form -->
-<p>
+<div id="comment-form">
     <h3>Leave a Comment</h3>
     <form method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
-        <input name="options[redirect]" type="hidden" value="http://theshorttamperedclavier.github.io/">
+        <input name="options[redirect]" type="hidden" value="http://theshorttamperedclavier.github.io{{ page.url }}">
         <input name="options[slug]" type="hidden" value="{{ page.slug }}">
         <div>
-            <legend>Name</legend>
+            <legend>Username</legend>
             <input name="fields[name]" type="text">
         </div>
         <div>
-            <legend>E-mail (optional)</legend>
-            <input name="fields[name]" type="email">
-        </div>
-        <div>
-            <legend>Website (optional)</legend>
-            <input name="fields[url]" type="url">
-        </div>
-        <div>
-            <legend>Message (Markdown allowed)</legend>
-            <textarea style="width:100%" name="fields[message]" rows="12"></textarea>
+            <legend>Comment (<a href="https://daringfireball.net/projects/markdown/syntax">Markdown</a> allowed)</legend>
+            <textarea style="width:100%" name="fields[comment]" rows="12"></textarea>
         </div>
         <div>
             <legend><em>Comments will appear after moderation.</em></legend>
             <button type="submit">Submit</button>
         </div>
     </form>
-</p>
+</div>
