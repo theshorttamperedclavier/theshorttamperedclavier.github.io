@@ -23,7 +23,7 @@ title: Home
       {% elsif post.custom_excerpt %}
       {{ post.excerpt }}
       {% else %}
-      {{ post.content | strip_html | truncatewords: 100 }}
+      {{ post.content | strip_html | truncatewords: site.excerpt-words }}
       {% endif %}
       <br><a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
       {% endif %}
