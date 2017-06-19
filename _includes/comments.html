@@ -1,7 +1,7 @@
 <!-- Comment form -->
 <p>
     <h3>Leave a Comment</h3>
-    <form method="POST" action="https://api.staicman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+    <form method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
         <input name="options[redirect]" type="hidden" value="http://theshorttamperedclavier.github.io/">
         <input name="options[slug]" type="hidden" value="{{ page.slug }}">
         <div>
