@@ -7,11 +7,14 @@ title: About
 
 **Mandar Juvekar** I'm a 12th grade student in Pune, India. My interests include
 mathematics, computer science, and Western and Indian classical music. I am a
-Google Code-In top 10 contributor for the [MovingBlocks]() open source
-organization and have been actively involved in their [Terasology]()
-project since then. I am currently working as a mentor for the organization
-as part of the [Google Summer of Code]() competition. I have been training as a
-classical pianist for 6 years, and receiving an informal education in Hindustani
+Google Code-In top 10 contributor for the
+[MovingBlocks](https://github.com/MovingBlocks) open source organization
+and have been actively involved in their [Terasology](http://terasology.org)
+project since then. I am currently working as a mentor for the organization for
+the [Google Summer of Code](https://summerofcode.withgoogle.com) competition. I
+have been training as a classical pianist for 6 years, and have passed the
+Trinity College of London's piano exams up to grade 5 with distinction. I can
+also play the tabla, and have been receiving informal education in Hindustani
 classical music from Shardul.
 
 **Shardul Chiplunkar** I'm a high-school senior originally from Pune, India, and
