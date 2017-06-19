@@ -12,7 +12,7 @@ is just a blog.
 *Why are you doing this?* Good question. Mainly because we've been talking about
 a lot of stuff and now want to write about it, but also because we aren't happy
 with how busy we already are and want to eat up even more of our time. Also who
-doesn't like Jekyll on GitHub pages?
+doesn't like [Jekyll on GitHub pages](https://help.github.com/articles/about-github-pages-and-jekyll/)?
 
 *What is the blog about?* It's about things that we find interesting and worth
 talking about or sharing. Often that will include mathematics, computer science,
@@ -23,10 +23,10 @@ in anyway.
 *Why is it called 'The Short, Tampered Clavier'?* This question is left as an
 exercise to the reader.
 
-*What about the icon?* OK, we'll give you this one. It's the FontAwesome icon
-for 'genderless', colored light gray with a transparent background. We thought
-it interesting how 'genderless' could be represented by just an undistinguished
-circle.
+*What about the icon?* OK, we'll give you this one. It's the
+[FontAwesome icon for 'genderless'](http://fontawesome.io/icon/genderless/),
+colored light gray with a transparent background. We thought it interesting how
+'genderless' could be represented by just an undistinguished circle.
 
 *When will you post stuff?* It definitely won't be on a regular schedule, but
 you might see something like a post every week. If an author is really busy
