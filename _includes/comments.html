@@ -18,16 +18,10 @@
   <div>
     {% for comment in comments %}
       <legend>
-        {% if comment[1].url %}
-          <a href="{{ comment[1].url }}">
-        {% endif %}
-        <strong>{{ comment[1].name }}</strong>
-        {% if comment[1].url %}
-          </a>
-        {% endif %}
+        <strong>{{ comment[1].username }}</strong>
       </legend>
       <em>{{ comment[1].date | date: "%d %b %Y" }}</em>
-      {{ comment[1].message | markdownify }}
+      {{ comment[1].comment | markdownify }}
       <hr>
     {% endfor %}
   </div>
