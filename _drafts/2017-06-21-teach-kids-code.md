@@ -45,20 +45,23 @@ often means learning a bunch of magic vocabulary and syntax rules that you mash
 together in different ways until you come up with something that compiles and
 produces the output you want for a couple of small test cases, if you bother to
 test it at all. There's a difference between just programming and programming
-with a background of computer science.
+well. A lot of 'anybody can code' initiatives have unreliable ways to check
+whether true problem-solving abilities are fostered in students, the sort of
+abilities that let you come up with the concept of binary search trees on your
+own.
 
 The skills required for successful programming are actually ones that you might
-have more success picking up in an undergraduate mathematics or computer
-science course: problem-solving, formal logic, reasoning with and about formal
-systems, logical reasoning in general, and on a more personal level, persistence
-and creativity. And while most people accept that undergraduate math courses are
-not for everyone, programming somehow should still be something all kids can
-learn. Working with computers means you need to understand how they function,
-why your [incantations](https://stackoverflow.com/a/185803/1846915) cause
-certain things to happen, and what precise things you need to tell the computer
-for it to do exactly what you want. Sorting algorithms shouldn't be something
-you read and learn from a book, but you discover for yourself (at least some of
-them), from first principles after you are introduced to computers and their
+have more success picking up in an undergraduate mathematics or computer science
+course: problem-solving, formal logic, reasoning with and about formal systems,
+logical reasoning in general, and on a more personal level, persistence and
+creativity. And while most people accept that undergraduate math courses are not
+for everyone, programming somehow should still be something all kids can learn.
+Working with computers means you need to understand how they function, why
+your [incantations](https://stackoverflow.com/a/185803/1846915) cause certain
+things to happen, and what precise things you need to tell the computer for it
+to do exactly what you want. Sorting algorithms shouldn't be something that you
+read and learn from a book, but that you discover for yourself (at least some of
+them) from first principles, after you are introduced to computers and their
 inner workings. (Which brings me dangerously close to discovery-based learning
 which is a topic for another post. :P)
 
@@ -102,7 +105,8 @@ layouts!" And the practical benefits of learning HTML/CSS/JS are obvious because
 these aren't some artificially constructed technologies, they run the entire
 Internet. Two solid years of learning HTML/CSS/JS in school (along with all the
 cool associated technology we have today, like JS frameworks and elegant NoSQL
-DBs) could possibly be enough to get you into basic professional web dev.
+DBs) could possibly be enough to get you into basic professional web dev. (Not
+that I'm recommending it, two years could get boring.)
 
 After that, keeping students interested is not an issue. The only thing you
 shoud *not* do is teach everyone Java which is, for some reason, what high
