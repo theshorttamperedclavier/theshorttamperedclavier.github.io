@@ -16,9 +16,9 @@ doesn't like [Jekyll on GitHub pages](https://help.github.com/articles/about-git
 
 *What is the blog about?* It's about things that we find interesting and worth
 talking about or sharing. Often that will include mathematics, computer science,
-linguistics, education, and philosophy/ethics; often there will be cultural
-references that will be lost of the majority of our readers but we'll put them
-in anyway.
+linguistics, music, education, and philosophy/ethics; often there will be
+cultural references that will be lost of the majority of our readers but we'll
+put them in anyway.
 
 *Why is it called 'The Short, Tampered Clavier'?* This question is left as an
 exercise to the reader.
