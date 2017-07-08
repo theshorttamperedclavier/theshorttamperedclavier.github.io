@@ -3,7 +3,20 @@ layout: page
 title: About
 ---
 
-**Aalok Sathe**
+**Aalok Sathe** I'm from Pune, India, currently in my freshman year at the 
+[University of Richmond, VA](http://richmond.edu), majoring in computer science and
+cognitive science.
+I am interested in math, machines, linguistics, philosophy, neuroscience, football
+(soccer) and music (in no particular order), among other things. I have undergone
+training in Indian classical music as a vocalist for about ten years and plan to
+get introduced to Western classical music during my college years in the US.
+In the past I have participated in Olympiads such as Linguistics (where I was one
+of the eight team members representing India at IOL in 2015 as well as 2016, and
+won bronze medals at [IOL](http://www.ioling.org/results/India/) on both occasions),
+Philosophy (where I was the 2nd alternate in the Indian team in 2016), and Informatics
+(thanks to which I took up programming for the first time).
+I find organization within nature, and systems of all kinds, fascinating -- the complex
+human brain, computers, human society, the universe, to name a few.
 
 **Mandar Juvekar** I'm a 12th grade student in Pune, India. My interests include
 mathematics, computer science, and Western and Indian classical music. I am a
