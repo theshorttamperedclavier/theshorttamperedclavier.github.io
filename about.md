@@ -11,8 +11,8 @@ I am interested in math, machines, linguistics, philosophy, neuroscience, footba
 training in Indian classical music as a vocalist for about ten years and plan to
 get introduced to Western classical music during my college years in the US.
 In the past I have participated in Olympiads such as Linguistics (where I was one
-of the eight team members representing India at IOL in 2015 as well as 2016, and
-won bronze medals at [IOL](http://www.ioling.org/results/India/) on both occasions),
+of the eight team members representing India at IOL in 2015 as well as 2016 (with Shardul),
+and won bronze medals at [IOL](http://www.ioling.org/results/India/) on both occasions),
 Philosophy (where I was the 2nd alternate in the Indian team in 2016), and Informatics
 (thanks to which I took up programming for the first time).
 I find organization within nature, and systems of all kinds, fascinating -- the complex
