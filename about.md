@@ -25,10 +25,11 @@ Google Code-In top 10 contributor for the
 and have been actively involved in their [Terasology](http://terasology.org)
 project since then. I am currently working as a mentor for the organization for
 the [Google Summer of Code](https://summerofcode.withgoogle.com) competition. I
-have been training as a classical pianist for 6 years, and have passed the
-Trinity College of London's piano exams up to grade 5 with distinction. I can
-also play the tabla, and have been receiving informal education in Hindustani
-classical music from Shardul.
+have been training as a classical pianist for 6 years, have passed the
+Trinity College of London's piano exams up to grade 5 with distinction, and am
+currently working on the Associate of the Trinity College of London (ATCL)
+diploma in piano performance.I can also play the tabla, and have been receiving
+informal education in Hindustani classical music from Shardul.
 
 **Shardul Chiplunkar** I'm a high-school senior originally from Pune, India, and
 currently in Fremont, CA. My interests include mathematics, computer science,
