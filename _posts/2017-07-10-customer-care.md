@@ -15,10 +15,10 @@ process of manually going to each election booth and collecting the results to
 add them up; surely this could be improved. 8th-grade me took a look at the
 code.
 
-What a mess. 2000 LOC for a text-based standalone Java application? Why did the
-guy have to *copy and paste several blocks of code*? Not to mention terrible
-formatting and programming practices, like *hard-coding the candidate names* in
-the program.
+What a mess. 2000 lines of code for a text-based standalone Java application?
+Why did the guy have to *copy and paste several blocks of code*? Not to mention
+terrible formatting and programming practices, like *hard-coding the candidate
+names* in the program.
 ([Like I said before]({{ site.baseurl }}{% post_url 2017-06-21-teach-kids-code %}),
 this was definitely not the teacher's fault, but I wonder why they tend to name
 variables things like <code>int a</code>---maybe because that's how math
@@ -26,11 +26,12 @@ variables are named?) Anyway, I realized things could be much better, and I
 wrote [VoteCounter](https://gitlab.com/shardul.chiplunkar/vote-counter/) over
 the summer: a decent-looking Java application with a GUI, operating over the
 network with a server reliably recording results and taking care of client
-connections/failures on the fly. Specifying arbitrary offices and candidates was
-as easy as editing an XML file and you could add logos and nominee symbols and
-whatnot as required. Everything was under the GPLv3 and the sources (under 1500
-LOC, by the way, excluding an XML parser library and a command-line argument
-library) were pretty well-documented; a satisfactory project on the whole.
+connections/failures on the fly. Specifying arbitrary offices and candidates
+was as easy as editing an XML file and you could add logos and nominee symbols
+and whatnot as required. Everything was under the GPLv3 and the sources (under
+1500 lines of code, by the way, excluding an XML parser library and a
+command-line argument library) were pretty well-documented; a satisfactory
+project on the whole.
 
 It worked well in my school the next year and is being used every year since,
 including just a month ago. And after the first two years, a school my aunt
