@@ -26,7 +26,7 @@ exercise to the reader.
 *What about the icon?* OK, we'll give you this one. It's the
 [FontAwesome icon for 'genderless'](http://fontawesome.io/icon/genderless/),
 colored light gray with a transparent background. We thought it interesting how
-'genderless' could be represented by just an undistinguished circle.
+ 'genderless' could be represented by just an undistinguished circle.
 
 *When will you post stuff?* It definitely won't be on a regular schedule, but
 you might see something like a post every week. If an author is really busy
