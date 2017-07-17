@@ -51,5 +51,5 @@ rush of adrenaline changes one's posture in some slight manner. Maybe it just
 affects me and not other performers.
 
 I suppose any of these could actually be possible. But then it just doesn't
-_feel_ like that. It just feels as if the stool which was perfect during
-rehearsal has mysteriously become not-so-perfect.
+_feel_ like that. It feels as though the stool which was perfect during
+rehearsal just _wants_ to be adjusted in front of the crowd.
