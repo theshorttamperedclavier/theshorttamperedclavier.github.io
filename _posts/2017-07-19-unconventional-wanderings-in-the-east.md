@@ -74,7 +74,7 @@ from all over India, and even the world (yet to accumulate any such cards).
 Khandagiri and Udaygiri were our first major sights in the city, caves that had been carved out more than two
 thousand years ago as residences for monks. And they weren’t just caves, they were beautifully designed, and
 decorated with carvings of stories, mythical and symbolic figures, scenes from the past and contemporary lives
-of people, and whatnot. One of the pictures was the caves themselves, as seen from the entrance. Unfortunately
+of people, and whatnot. One of the pictures was supposedly of the caves themselves, as seen from the entrance. Unfortunately
 the picture had eroded over the years. Otherwise, I’m sure, we would have been able to see a picture of that
 picture, and a picture of the picture-in-picture, too.
 
