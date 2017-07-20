@@ -76,11 +76,17 @@ thousand years ago as residences for monks. And they weren’t just caves, they 
 decorated with carvings of stories, mythical and symbolic figures, scenes from the past and contemporary lives
 of people, and whatnot. One of the pictures was the caves themselves, as seen from the entrance. Unfortunately
 the picture had eroded over the years. Otherwise, I’m sure, we would have been able to see a picture of that
-picture, and a picture of the picture-in-picture, too. Underneath one of the huge stone arches, in the so-called
-_'Hathi Gumpha'_, literally, the elephant cave, were inscriptions made in Prakrit using an archaic form of the
-Kalinga-Brahmi script, speaking of King Kharavela’s laurels. What will people find two thousand years from now?
-(Will there be people?)
+picture, and a picture of the picture-in-picture, too.
 
 ![udaygiri-picture-in-picture-picture](http://i.imgur.com/w9qhGT4.jpg)
+
+Underneath one of the huge stone arches, in the so-called
+_'Hathi Gumpha'_, literally, the elephant cave, were inscriptions made in Prakrit using an archaic form of the
+Kalinga-Brahmi script, speaking of King Kharavela’s laurels. Apparently, having found and (partially) deciphered
+the text told historians a lot about that era. This makes one wonder: what will people find two thousand years
+from now?
+(Will there be people?)
+
+![kharavela-inscription](http://i.imgur.com/DrZIvoS.jpg)
 
 // Post 1 of {undecided number} posts on this topic.
