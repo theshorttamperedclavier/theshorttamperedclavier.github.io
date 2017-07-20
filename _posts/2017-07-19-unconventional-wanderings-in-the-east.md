@@ -54,18 +54,18 @@ nearest railway station. Hearing _"they’re passengers of my coach and they sha
 ![night-shot-of-train](http://i.imgur.com/xCORUF2.jpg)
 
 As a result of the police incident, we all decided to go and occupy our actual seats, for a change.
-Thanks to that, I went at sat at my seat, which was at the far end of the coach, and found out that
-the person sitting next to me was a Bhubaneshwar local who was working in Pune for a few years. One
+Thanks to that, I went and sat at my seat, which was at the far end of the coach, and found out that
+the person sitting next to me was a Bhubaneshwar local who had been working in Pune for a few years. One
 thing led to another and we got to talking, and I heard some interesting perspectives on Odisha from
 him. _"The Chief Minister went abroad to get educated. He doesn’t even speak our language well, how does
 he expect to bring change?"_ Interesting how language was a basis of his criticism of the person leading
-the legislature of the state.
+the legislature of his state.
 
 
 Bhubaneshwar felt welcoming, clean, and modern. Perhaps a result of being added to the ‘Smart Cities’
 mandate. (Was Pune removed from the list?!) Ritualistically, I took out an inland postcard –- the ones they
 sell for half a Rupee (one-hundred-twentieth of a dollar) and deliver literally anywhere in India -- quickly
-scribbled the location I was sending it from, Bhubaneshwar railway station, wrote down my own address on it,
+scribbled the location I was sending it from -- Bhubaneshwar railway station -- wrote down my own address on it,
 and inserted it into one of the several post boxes at the station. I always feel hesitant and low-key afraid
 when I post one of these – there is no way to be sure that they’ll reach me, but I know that I want to post
 them anyway. The idea is that years later, I’ll have a whole bunch of such cards, posted on various occasions
@@ -81,6 +81,6 @@ _'Hathi Gumpha'_, literally, the elephant cave, were inscriptions made in Prakri
 Kalinga-Brahmi script, speaking of King Kharavela’s laurels. What will people find two thousand years from now?
 (Will there be people?)
 
-![udaygiri-picture-in-picture](http://i.imgur.com/w9qhGT4.jpg)
+![udaygiri-picture-in-picture-picture](http://i.imgur.com/w9qhGT4.jpg)
 
 // Post 1 of {undecided number} posts on this topic.
