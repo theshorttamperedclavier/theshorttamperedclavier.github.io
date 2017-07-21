@@ -7,19 +7,20 @@ I may be writing this from the comfort of my home right now, but about a month a
 I was on the other side of India, i.e., near the East coast. I traveled with other 
 enthusiasts and friends on a _study tour_, to Odisha. If you go about asking people in general
 about their thoughts on Odisha, chances are that they don’t know enough to even have
-an opinion about it, and just know that it is another state of India, somewhere in
+an opinion on the topic, and just know that it is another state of India, somewhere in
 the general Eastern direction (for those of us living in central-ish India), or they
-know bits and pieces and just enough information to conclude that it is among the
+know bits and pieces and have just enough information to conclude that it is among the
 economically poorest and most underdeveloped states of India, and/or that it is
 "culturally rich". Most people know of popular tourist destinations within Odisha,
 which are mainly a whole lot of temples in a bunch of different towns, the Chilika
 lake, and the nature. When we first met and decided that we’d travel to Odisha, we
-didn’t know much more than this either. We started out by looking at the map of Odisha,
-perhaps for the time ever, and had conversations that went like this: [pointing at a
-location on the map] 
+didn’t know much more than this either. We began by looking at the map of Odisha,
+perhaps for the time ever, and had conversations that went somewhat like this:
 
-_"This area over here? We could go there. Mayurbhanj? Sundargarh?
-Yeah, let’s go there too. What about here?"_, and so on. 
+[pointing at a location on the map]
+_"This area over here? We could go there. Sundargarh? Mayurbhanj?
+Yeah, let’s go there too. Where's the lake? What about this place over here?"_,
+and so on. 
 
 Finally we zeroed in on two
 districts, Mayurbhanj and Kandhamal, apart from an obligatory visit to Bhubaneswar,
@@ -74,9 +75,9 @@ from all over India, and even the world (yet to accumulate any such cards).
 Khandagiri and Udaygiri were our first major sights in the city, caves that had been carved out more than two
 thousand years ago as residences for monks. And they weren’t just caves, they were beautifully designed, and
 decorated with carvings of stories, mythical and symbolic figures, scenes from the past and contemporary lives
-of people, and whatnot. One of the pictures was supposedly of the caves themselves, as seen from the entrance. Unfortunately
-the picture had eroded over the years. Otherwise, I’m sure, we would have been able to see a picture of that
-picture, and a picture of the picture-in-picture, too.
+of people, and whatnot. One of the pictures was supposedly of the caves themselves, as seen from the entrance.
+Unfortunately the picture had eroded over the years. Otherwise, I’m sure, we would have been able to see a
+picture of that picture, and a picture of the picture-in-picture, too.
 
 ![udaygiri-picture-in-picture-picture](http://i.imgur.com/w9qhGT4.jpg)
 
