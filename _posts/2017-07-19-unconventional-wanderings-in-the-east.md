@@ -38,9 +38,11 @@ unfamiliar, was unanticipated. While the landscape was mostly plains, mountains,
 farmlands, and wetlands, and combinations thereof, throughout, we could still feel a difference.
 Moving past Karnataka and then Andhra Pradesh, the mountains weren’t like the mountains we were
 used to, the farmlands weren’t the way we were comfortable seeing in a local train journey or road
-trip. I wouldn’t be doing justice to this post if I didn’t mention, if I may add, a very interesting
+trip. 
+
+I wouldn’t be doing justice to this post if I didn’t mention, if I may add, a very interesting
 incident that happened in the train. As the journey gained pace, we pulled out a set of playing
-cards. A game of Rummy started, and all was well when two Railway Police Force officers boarded
+cards. A game of Rummy started, and all was well until two Railway Police Force officers boarded
 none other than our coach. Turns out they were there for a whole other issue, but when they walked
 past us they noticed playing cards and the senior of them stopped.
 _"Stop playing. Playing cards is illegal."_ (Gambling is illegal, playing cards is obviously not!)
