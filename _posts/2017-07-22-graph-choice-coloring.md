@@ -27,7 +27,10 @@ The conditions are the same, except that I'm going to write a list of *k* colors
 next to each vertex and you have to choose a color from that list for the
 vertex. What is the minimum value of *k* such that no matter what lists I write
 down, you can always color the graph with no neighboring vertices having the
-same color? "Not too bad", you say, "four ought to do it". And for a lot of
+same color? (Dr. Jonah Ostroff, Director and one of our instructors at
+MathILy-Er, introduced us to what follows.)
+
+"Not too bad", you say, "four ought to do it". And for a lot of
 graphs, indeed lists of four are enough ('A' is for 'azure', 'B' for 'blue', 'C'
 for 'cyan', 'D' for 'denim', 'E' for 'electric', 'F' for 'freedom'):
 
@@ -64,7 +67,7 @@ this graph, you'll notice that it's not possible to color it with colors from
 the given lists. Here's why: for each square in the figure, if all four corners
 were of different colors, then you wouldn't be able to color the center vertex;
 thus two corners have to be the same color in every square. Because of the way
-the colors are arranged these two squares have to be on one of the diagonals of
+the colors are arranged these two corners have to be across one of the diagonals of
 the square. But no matter which diagonal you decide to start with, you can work
 your way all around the entire diagram and you'll eventually reach a conflict
 where a vertex cannot be colored in a valid way.
