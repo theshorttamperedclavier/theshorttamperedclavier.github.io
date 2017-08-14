@@ -8,7 +8,7 @@ students are in the same room, busy at whiteboards and tables and incessant
 discussions. It's crowded and you can hear everybody's soft yet intense voices
 trying to prove, conjecture, disprove, convince, find, understand. A few friends
 and I have been working on a single proof for three hours; this particular
-problem had been unsolved by either Root class for the last two weeks and was
+problem has not been solved by either Root class for the last two weeks and is
 bugging everyone.
 
 We think we have it! We try to explain to a bewildered passer-by. Not good
