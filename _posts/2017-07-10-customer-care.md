@@ -37,6 +37,8 @@ It worked well in my school the next year and is being used every year since,
 including just a month ago. And after the first two years, a school my aunt
 teaches in in Goa was also interested, and so on my next visit to Goa, I set up
 the system there and it worked for them too. All good so far.
+(Just to clarify, this was four years ago; now I'm living in Fremont,
+California, and currently I'm at MathILy-Er in Salem, Oregon.)
 
 But a few days ago the Goa school ran into a minor issue with adding images to
 the nominee buttons (the actual election stuff was working perfectly, and even
