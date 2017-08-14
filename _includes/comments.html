@@ -11,8 +11,6 @@
     </h3>
   </p>
 
-  <hr>
-
   {% assign comments = site.data.comments[page.slug] | sort %}
 
   <div>
@@ -34,7 +32,7 @@
         <input name="options[redirect]" type="hidden" value="http://theshorttamperedclavier.github.io{{ page.url }}">
         <input name="options[slug]" type="hidden" value="{{ page.slug }}">
         <div>
-            <legend>Username</legend>
+            <legend>Username (required)</legend>
             <input name="fields[username]" type="text">
         </div>
         <div>
