@@ -28,7 +28,7 @@ the [Google Summer of Code](https://summerofcode.withgoogle.com) competition. I
 have been training as a classical pianist for 6 years, have passed the
 Trinity College of London's piano exams up to grade 5 with distinction, and am
 currently working on the Associate of the Trinity College of London (ATCL)
-diploma in piano performance.I can also play the tabla, and have been receiving
+diploma in piano performance. I can also play the tabla, and have been receiving
 informal education in Hindustani classical music from Shardul.
 
 **Shardul Chiplunkar** I'm a high-school senior originally from Pune, India, and
@@ -44,8 +44,9 @@ I am a
 for my work with [Apertium](https://www.apertium.org/), an open source machine
 translation platform. I've been on Team India for the
 [14th International Linguistics Olympiad](http://iol14.plo-in.org/)
-with Aalok as a senior teammate (and I will be on the team for the
-[15th](http://www.iol2017.ie/) in a few weeks). I have been training as a
+with Aalok as a senior teammate,
+and also on the [15th](http://www.iol2017.ie/) where I won an honorable mention.
+I have been training as a
 Hindustani classical vocalist for 10 years and have rudimentary tabla and
 harmonium skills, and I have been receiving an informal education in Western
 classical music from Mandar.
