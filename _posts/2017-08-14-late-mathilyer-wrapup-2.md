@@ -21,10 +21,16 @@ around.
 
 ---
 
-Now that I think about it, MathILy-Er executed brilliant 'head fakes' on
+Now that I think about it, MathILy-Er executed brilliant
+'[head fakes](https://en.wikipedia.org/wiki/Head_fake)'
+on
 multiple levels. (A head fake is when you're playing, say, basketball, and you
 turn your head one way but pass the ball a different way to confuse the player
-trying to intercept the ball.)
+trying to intercept the ball. I use the word the same way
+[Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch)
+of
+*[The Last Lecture](https://en.wikipedia.org/wiki/The_Last_Lecture)*
+fame used it.)
 
 The first head fake was the way we did math in class. We thought we were just
 playing around with those funny matrices who only had zeroes and ones in them.
@@ -43,8 +49,11 @@ instructors?
 
 The second head fake was all the absurd humor. If you haven't encountered this
 particular genre of entertainment yet---more likely, you have, but you don't
-know what it's called---I think the evergreen [Monty Python](insert link) and
-David Malki's webcomic [Wondermark](insert link) are quintessential. It's hard
+know what it's called---I think the evergreen
+[Monty Python](https://www.youtube.com/user/MontyPython)
+and David Malki's webcomic
+[Wondermark](http://wondermark.com/)
+are quintessential. It's hard
 to put MathILy-Er's general atmosphere of absurdity in words, but all throughout
 those five weeks---in class, at lunch, in the dorm, at the programfire
 (MathILy-Er isn't a 'summer camp' but rather a 'summer program'),
@@ -63,8 +72,9 @@ thinking back, I personally would have had a much narrower approach to such a
 situation before MathILy-Er. I now feel that discovering new mathematics is
 essentially trying to do things that nobody has even *thought* of doing before,
 because it's simply too improbable that someone would just randomly think of
-them. It's like [the surprising construction that solves the 'world's hardest
-geometry problem'](insert link) but on a much deeper level. MathILy-Er taught
+them. It's like the surprising construction that solves
+['the world's hardest geometry problem'](http://thinkzone.wlonk.com/MathFun/Triangle.htm)
+but on a much deeper level. MathILy-Er taught
 me to not take anything, including myself, too seriously, but also to not
 dismiss the seemingly absurd or wrong without a little thought.
 
@@ -75,7 +85,9 @@ to teach us *how math is done*. Math is seldom the stereotypical absent-minded
 genius (severely lacking in social life) scribbling away in solitude, publishing
 theorem after theorem or working on a single monumental proof for seven years or
 single-handedly writing *the* book on a niche incomprehensible topic. Quite on
-the contrary, math is a 'massively-multiplayer' collaborative effort, where
+the contrary, math is a
+[massively-multiplayer](https://en.wikipedia.org/wiki/Massively_multiplayer_online_game)
+collaborative effort, where
 researchers from diverse areas of expertise (and areas of geography) pool their
 work together, building mathematics bit by bit, paper by paper, so that everyone
 understands what's going on and everyone can at least try to contribute

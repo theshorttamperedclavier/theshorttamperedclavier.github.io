@@ -17,8 +17,11 @@ called 'Branch class', and a general discussion of what I took away from my
 experience (in the
 [next post]({{ site.baseurl }}{% post_url 2017-08-14-late-mathilyer-wrapup-2 %})).
 
-MathILy-Er had two Branch class topics this summer: combinatorial game theory
-(CGT) and non-Euclidean geometry. Which class you were assigned to depended on
+MathILy-Er had two Branch class topics this summer:
+[combinatorial game theory](https://en.wikipedia.org/wiki/Combinatorial_game_theory)
+(CGT) and
+[non-Euclidean geometry](https://en.wikipedia.org/wiki/Non-Euclidean_geometry).
+Which class you were assigned to depended on
 the instructors' evaluation of your particular interests and skills (and, to a
 slightly lesser extent, on your preference if you had any). I had no strong
 preference and was assigned to CGT. So what is CGT? (Perhaps the question should
@@ -47,12 +50,20 @@ with immensely helping us truly figure math out ourselves---'learn from within',
 if you will---this style of learning is actually really fun because you can be
 imaginative, to say the least, with names.)
 
-Games that fall into the realm of what we discussed include chess, Go,
-Reversi/Othello, and a variety of common so-called 'strategy games', but we
+Games that fall into the realm of what we discussed include
+[chess](https://en.wikipedia.org/wiki/Chess),
+[Go](https://en.wikipedia.org/wiki/Go_(game)),
+[Reversi/Othello](https://en.wikipedia.org/wiki/Reversi),
+and a variety of common so-called 'strategy games', but we
 didn't talk about those in much detail. A game that is central to CGT (for
-reasons that are kind of hard to explain in a short blog post) is [Nim](insert
-link) (which we called '[zougxwuouang](insert link to zugzwang)'). We also
-talked about the popular boredom-buster 'Dots and Boxes' where players connect
+reasons that are kind of hard to explain in a short blog post) is
+[Nim](https://en.wikipedia.org/wiki/Nim)
+(which we called 
+'[zougxwuouang](https://en.wikipedia.org/wiki/Zugzwang)').
+We also
+talked about the popular boredom-buster
+['Dots and Boxes'](https://en.wikipedia.org/wiki/Dots_and_Boxes)
+where players connect
 adjacent dots in a grid, and if a player makes a box, they 'own' it; at the end
 of the game whichever player owns the most boxes wins. (Spoiler: Dots and Boxes
 is an incredibly hard game to completely figure out. Professional research has
