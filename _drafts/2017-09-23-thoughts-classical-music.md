@@ -11,8 +11,8 @@ open 2017-09-17T16:50:00Z
 > **M**: Hehe kinda  
 > **M**: He was a show-off  
 > **M**: And a virtuoso pianist  
-> **M**: So yea, most of his pieces are flashy and hard and stuff  
-> **M**: It's crazy  
+> **M**: So yea, a lot of his pieces are flashy and hard and stuff  
+> **M**: [La Campanella] It's crazy
 > **M**: Especially after like the first minute/minute and a half  
 > **S**: and if I recall correctly he had to rewrite one because nobody could play it  
 > **M**: Idk about that. That could be a myth  
@@ -49,16 +49,27 @@ verses from the earlier *[Ṛgveda][17]* to music according to poetic meter and 
 Indian classical music, distinct from Hindustani classical ("HCM") and Carnatic
 classical.
 
-What is this mathematical music? Much can be said about it, but I'll try to
-explain with some examples. Bach's *[crab canon][4]* is a piece with two musical
-voices that are reflections of each other *in time*: one played in reverse gives
-the other. Yet the voices still harmonize when played simultaneously! An example
-from HCM is in *tāna*s, or extended sequences of notes sung very rapidly but
-with precision, typically around 8 or 9 per second. Here, patterns of notes,
-e.g. '1-2-3-4-2-3' where '1', '2', '3', '4' are adjacent notes in a *rāga*, are
-repeated with shifts in pitch (not absolutely, but relative to the available
-pitches in the *rāga*), combined into meta-patterns, and morphed into other
-patterns, all while improvising at 8 or 9 notes *per second*.
+What is this mathematical music? Much can be said about it, but We'll try to
+explain with the example of baroque canons. In the [Baroque][4] period (1600 - 1750),
+a form of music called the *[canon][18]* came to popularity. A canon consists of multiple
+voices which are played simultaneously. It starts with one voice "stating" a
+melody, followed by the other voices joining in. The speciality of a canon is that
+what each voice plays is a precise derivative of the melody. These derivates can
+be formed by applying to the melody one or more of a few allowed transformations
+(for example shift in scale, shift in rhythm, inversions, etc). In fact, these
+canons are so precise and "calculated" that during the Baroque era it was a common
+pass-time to compose and exchange "puzzle canons", where parts of the canon are
+left blank for the reader/performer to fill in. The beauty is in writing canons
+where the voices harmonize with each other perfectly. J. S. Bach was a master of
+balancing voices, as is seen in his [Musical Offering][3], a collection of puzzle
+canons, fugues, and more.
+
+An example from HCM is in *tāna*s, or extended sequences of notes sung very
+rapidly but with precision, typically around 8 or 9 per second. Here, patterns
+of notes, e.g. '1-2-3-4-2-3' where '1', '2', '3', '4' are adjacent notes in a
+*rāga*, are repeated with shifts in pitch (not absolutely, but relative to the
+available pitches in the *rāga*), combined into meta-patterns, and morphed into
+other patterns, all while improvising at 8 or 9 notes *per second*.
 
 Playing around with these various dimensions of music---time, tempo, relative
 pitch, abstractions within music, etc.---to create appealing patterns is what
@@ -87,20 +98,27 @@ open 2017-09-17T17:07:00Z
 close 2017-09-17T17:12:00Z
 
 "Base framework" above refers to the general structure of an HCM performance.
-There are set rules for a *rāga*, concerning which notes can be used and in what
-contexts, but these can be bent by skilled performers as long as the changes
-sound nice and do not stray too far from the original or for too long. Further,
-there is a set flow to a performance: first a slow-paced, elaborate *khyāl* with
-a focus on developing the mood of the *raga*, followed by a moderate-paced
-composition (often the same *khyāl* but more peppily) with more playful
-variations on tempo, then a fast-paced piece or two for *tāna*s and any
-unconventional ideas the performer has, and finally, in modern times,
-semi-classical or light music, like devotionals.
+There are set rules for a *rāga* (the rough equivalent of a *scale* in WCM),
+concerning which notes can be used and in what contexts, but these can be bent
+by skilled performers as long as the changes sound nice and do not stray too far
+from the original or for too long. Further, there is a set flow to a performance:
+first a slow-paced, elaborate *khyāl* with a focus on developing the mood of the
+*raga*, followed by a moderate-paced composition (often the same *khyāl* but more
+peppily) with more playful variations on tempo, then a fast-paced piece or two
+for *tāna*s and any unconventional ideas the performer has, and finally, in
+modern times, semi-classical or light music, like devotionals.
 
-WCM has a different sort of "base framework" in the rules/conventions of how
-fugues, canons, concertos, rondos, sonatas, etc. are structured; how chord
-progressions in a given key are used; [how themes are developed][2] with
-techniques of rhythm, counterpoint, and sequences; and so on.
+WCM has a different sort of "base framework". Western pieces of music are generally
+much more free to change keys in the middle. This is something that isn't too
+common in HCM (performers generally don't change *rāga*s in the middle of a piece).
+The framework, in WCM, comes from the *[form][19]* of music: the way the music is structured.
+Sonatas, fugues, polonaises, mazurkas are all different forms of music, and differ
+primarily in the kind of melody, the meter and the way ideas are developed as the
+piece progresses. It is interesting to note that over time these forms have become
+more relaxed, and composers started straying away from forms more. For example,
+if one listens to the Beethoven piano sonatas in chronological order, one can
+make out that while the first movements of most of his early sonatas stuck close
+to the [Sonata-allegro][20] form, his later sonatas were much more free-form.
 
 open 2017-09-17T21:10:00Z
 
@@ -214,18 +232,18 @@ open 2017-09-20T04:32:00Z
 
 close 2017-09-20T05:09:00Z
 
-Only later did I find out that the "depth vs. breadth" distinction is more
+Only later did we find out that the "depth vs. breadth" distinction is more
 precisely stated as HCM tending to be "modal music", with a really large number
 of non-Western modes, while WCM is "tonal music", as outlined [here][12]. (In
 fact, beyond just modes, HCM associates emotions, times of the day, seasons,
-etc. with the *rāga*s too.) But as I said, the topic of where the freedom and
-creativity lies in the two bodies of music, and how the music is built up,
-definitely deserves more study.
+etc. with the *rāga*s too, whereas WCM doesn't associate emotions, etc. with scales.)
+But as we said, the topic of where the freedom and creativity lies in the two
+bodies of music, and how the music is built up, definitely deserves more study.
 
  [1]: https://youtu.be/M0U73NRSIkw
  [2]: https://en.wikipedia.org/wiki/Musical_development
  [3]: https://en.wikipedia.org/wiki/The_Musical_Offering
- [4]: https://en.wikipedia.org/wiki/Crab_canon
+ [4]: https://en.wikipedia.org/wiki/Baroque_music
  [5]: https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-iphone-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0465026567
  [6]: https://en.wikipedia.org/wiki/Douglas_Hofstadter
  [7]: http://www.cogs.indiana.edu/people/profile.php?u=dughof
@@ -238,3 +256,6 @@ definitely deserves more study.
  [15]: https://en.wikipedia.org/wiki/Samaveda
  [16]: https://en.wikipedia.org/wiki/Dhrupad
  [17]: https://en.wikipedia.org/wiki/Rigveda
+ [18]: https://en.wikipedia.org/wiki/Canon_(music)
+ [19]: https://en.wikipedia.org/wiki/Musical_form
+ [20]: https://en.wikipedia.org/wiki/Sonata_form
