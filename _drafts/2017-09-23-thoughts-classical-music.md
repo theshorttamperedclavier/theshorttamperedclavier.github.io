@@ -12,7 +12,7 @@ open 2017-09-17T16:50:00Z
 > **M**: He was a show-off  
 > **M**: And a virtuoso pianist  
 > **M**: So yea, a lot of his pieces are flashy and hard and stuff  
-> **M**: [La Campanella] It's crazy
+> **M**: [La Campanella] It's crazy  
 > **M**: Especially after like the first minute/minute and a half  
 > **S**: and if I recall correctly he had to rewrite one because nobody could play it  
 > **M**: Idk about that. That could be a myth  
@@ -49,8 +49,8 @@ verses from the earlier *[Ṛgveda][17]* to music according to poetic meter and 
 Indian classical music, distinct from Hindustani classical ("HCM") and Carnatic
 classical.
 
-What is this mathematical music? Much can be said about it, but We'll try to
-explain with the example of baroque canons. In the [Baroque][4] period (1600 - 1750),
+What is this mathematical music? Much can be said about it, but we'll try to
+explain with the example of baroque canons. In the [Baroque][4] period (1600--1750),
 a form of music called the *[canon][18]* came to popularity. A canon consists of multiple
 voices which are played simultaneously. It starts with one voice "stating" a
 melody, followed by the other voices joining in. The speciality of a canon is that
@@ -98,7 +98,7 @@ open 2017-09-17T17:07:00Z
 close 2017-09-17T17:12:00Z
 
 "Base framework" above refers to the general structure of an HCM performance.
-There are set rules for a *rāga* (the rough equivalent of a *scale* in WCM),
+There are set rules for a *rāga*,
 concerning which notes can be used and in what contexts, but these can be bent
 by skilled performers as long as the changes sound nice and do not stray too far
 from the original or for too long. Further, there is a set flow to a performance:
@@ -109,8 +109,7 @@ for *tāna*s and any unconventional ideas the performer has, and finally, in
 modern times, semi-classical or light music, like devotionals.
 
 WCM has a different sort of "base framework". Western pieces of music are generally
-much more free to change keys in the middle. This is something that isn't too
-common in HCM (performers generally don't change *rāga*s in the middle of a piece).
+much more free to change keys and tempo in the middle.
 The framework, in WCM, comes from the *[form][19]* of music: the way the music is structured.
 Sonatas, fugues, polonaises, mazurkas are all different forms of music, and differ
 primarily in the kind of melody, the meter and the way ideas are developed as the
@@ -153,7 +152,9 @@ open 2017-09-20T04:21:00Z
 close 2017-09-20T04:31:00Z
 
 In the linked *Surat Piyā Ki* clip, the first shift is at 0:47, and then they
-just keep coming every 20 seconds or so until the end. However, that is a piece
+just keep coming every 20 seconds or so until the end. Other pieces exhibiting
+*rāga* shifts are *rāgamālā*s and a number of semi-classical *nātyageet*
+(musical drama) piece. However, those are pieces
 constructed for that purpose; a different example is the phenomenon of *vivādi*
 notes in HCM performances, where a note not belonging to a scale is artfully
 used to increase the aesthetic appeal, or *murchhanā*, where the notes of the
@@ -209,9 +210,7 @@ open 2017-09-20T04:32:00Z
 > **M**: I haven't heard too many  
 > **M**: Maybe. But I can't speak for the whole genre, because I've not heard too many  
 > **M**: Just pointing this out, your view of wcm is a bit baroque-biased. There isn't nearly as much Harmony in later music  
-> **A**: BTW, did you know about [this channel][11]: Turned up in a casual google search.  
 > **S**: ? if anything the harmony just got more complex as time progressed  
-> **M**: Nope. Haven't heard of them. Will check them out  
 > **S**: "Western ear more accustomed to dissonance" etc  
 > **A**: there is a different kind of harmony tho, right  
 > **M**: Well no. The "polyphonic intertwining of independent voices" stopped and turned into a less complex "melody + accompaniment"  
@@ -223,7 +222,7 @@ open 2017-09-20T04:32:00Z
 > **S**: "number of notes in the chord" :P  
 > **M**: Start of the classical period I would guess. Mozart, Haydn  
 > **M**: I hope that was sarcasm xD  
-> **M**: One more possibly interesting thing that came to my mind was the the number of works for solo violin/other single voice instruments decreased as tone progressed  
+> **M**: One more possibly interesting thing that came to my mind was the the number of works for solo violin/other single voice instruments decreased as time progressed  
 > **S**: hmm ya that's interesting  
 > **S**: another bias on what I think of when I say "WCM"  
 > **M**: (my knowledge on this matter only comes from the fact that most of the pieces in the diploma syllabus for violin are from the baroque, Classical and early romantic periods)  
@@ -236,7 +235,8 @@ Only later did we find out that the "depth vs. breadth" distinction is more
 precisely stated as HCM tending to be "modal music", with a really large number
 of non-Western modes, while WCM is "tonal music", as outlined [here][12]. (In
 fact, beyond just modes, HCM associates emotions, times of the day, seasons,
-etc. with the *rāga*s too, whereas WCM doesn't associate emotions, etc. with scales.)
+etc. with the *rāga*s too, whereas WCM scales only differ in their acoustic
+properties on different instruments.)
 But as we said, the topic of where the freedom and creativity lies in the two
 bodies of music, and how the music is built up, definitely deserves more study.
 
@@ -249,8 +249,7 @@ bodies of music, and how the music is built up, definitely deserves more study.
  [7]: http://www.cogs.indiana.edu/people/profile.php?u=dughof
  [8]: https://www.youtube.com/watch?v=nsgdZFIdmeo
  [9]: https://www.youtube.com/watch?v=HW7wHPQ9Xs4
- [10]: https://www.youtube.com/watch?v=HW7wHPQ9Xs4
- [11]: https://www.youtube.com/user/Balti26000
+ [10]: https://youtu.be/PZ307sM0t-0
  [12]: https://music.stackexchange.com/a/6407/19250
  [13]: https://i.imgur.com/1Qt97ma.jpg
  [15]: https://en.wikipedia.org/wiki/Samaveda
