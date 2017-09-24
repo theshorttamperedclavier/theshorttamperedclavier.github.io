@@ -109,7 +109,9 @@ for *tāna*s and any unconventional ideas the performer has, and finally, in
 modern times, semi-classical or light music, like devotionals.
 
 WCM has a different sort of "base framework". Western pieces of music are generally
-much more free to change keys and tempo in the middle.
+much more free to change keys and tempo in the middle, unlike HCM, as scales are
+more 'lightweight' than *rāga*s are and serve a slightly different purpose (as
+discussed later in this post).
 The framework, in WCM, comes from the *[form][19]* of music: the way the music is structured.
 Sonatas, fugues, polonaises, mazurkas are all different forms of music, and differ
 primarily in the kind of melody, the meter and the way ideas are developed as the
@@ -235,7 +237,8 @@ Only later did we find out that the "depth vs. breadth" distinction is more
 precisely stated as HCM tending to be "modal music", with a really large number
 of non-Western modes, while WCM is "tonal music", as outlined [here][12]. (In
 fact, beyond just modes, HCM associates emotions, times of the day, seasons,
-etc. with the *rāga*s too, whereas WCM scales only differ in their acoustic
+etc. with the *rāga*s too, whereas WCM scales have broader mood associations
+and, more pertinently, differ in their acoustic
 properties on different instruments.)
 But as we said, the topic of where the freedom and creativity lies in the two
 bodies of music, and how the music is built up, definitely deserves more study.
