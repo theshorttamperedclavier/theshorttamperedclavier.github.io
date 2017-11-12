@@ -10,8 +10,8 @@ learning applied specifically to mathematics.)*
 
 What is discovery-based learning?
 
-The key principle of this learning process is that students discover by
-themselves the material that they are intended to learn instead of it being
+The key principle of this learning process is that students discover
+the material they're supposed to learn by themselves instead of it being
 taught didactically as truth. This is fully and intensely collaborative:
 students *must* work together to ask questions, make conjectures, present their
 ideas and arguments to their peers, and be critical of each other to make
@@ -70,7 +70,7 @@ capable, both in such interactions with students and in the subject being
 learned; training teachers on a large scale to be good facilitators might be
 practically impossible because some might just not *get* it, not trust their
 students' abilities enough, or not have a thorough understanding of the content.
-[(How many elementary teachers can motivate the formula for the area of a triangle?)][3]
+([How many elementary teachers can motivate the formula for the area of a triangle?][3])
 
 Further, this method of learning takes a *lot* of time. In the hour that
 students would take to work their way to a rudimentary concept of a matrix, a
