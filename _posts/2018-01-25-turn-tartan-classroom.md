@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turn Tartan! (Part 1 of 2)
+title: Turn Tartan! in the Classroom
 ---
 
 Apologies for the long blog hiatus for which 'college applications' may or may
@@ -140,7 +140,7 @@ before coming to college.
 
 &nbsp;
 
-(to be continued in Part 2)
+([continued][15])
 
   [1]: https://admission.enrollment.cmu.edu/pages/turn-tartan-overnight
   [2]: https://www.cmu.edu/dietrich/
@@ -156,3 +156,4 @@ before coming to college.
   [12]: https://en.wikipedia.org/wiki/Minimal_pair
   [13]: https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart
   [14]: http://www.cs.cmu.edu/~./15110/
+  [15]: {{ site.baseurl }}{% post_url 2018-01-26-turn-tartan-outside %}
