@@ -234,6 +234,18 @@ img {
   border-radius: 5px;
 }
 
+.right-inset {
+  float: right;
+  margin: 10px 0 10px 10px;
+  width: 40%;
+}
+
+.left-inset {
+  float: left;
+  margin: 10px 10px 0 10px;
+  width: 40%;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
