@@ -5,10 +5,9 @@ title: About
 
 **Aalok Sathe** I am a student at the 
 [University of Richmond, VA](http://richmond.edu). I'm majoring in computer science and cognitive science, and minoring in math and linguistics.
-I am interested in math, machines, linguistics, philosophy, neuroscience, football
-(soccer) and music (in no particular order), among other things. I am a FOSS enthusiast. I have undergone
-training in Indian classical music as a vocalist for about ten years and plan to
-get introduced to Western classical music during my college years.
+I'm interested in math, machines, linguistics, philosophy, neuroscience, football
+(soccer) and music (in no particular order), among other things. I'm a FOSS enthusiast. I have undergone
+training in Indian classical music as a vocalist for about ten years.
 I find organization within nature, and systems of all kinds, fascinating -- the complex
 human brain, computers, human society, the universe, to name a few.
 For more, you can visit my [webpage](https://aalok-sathe.github.io).
