@@ -4,7 +4,7 @@ title: About
 ---
 
 **Aalok Sathe** I am a student at the 
-[University of Richmond, VA](http://richmond.edu). majoring in computer science and cognitive science, and minoring in math and linguistics.
+[University of Richmond, VA](http://richmond.edu). I'm majoring in computer science and cognitive science, and minoring in math and linguistics.
 I am interested in math, machines, linguistics, philosophy, neuroscience, football
 (soccer) and music (in no particular order), among other things. I am a FOSS enthusiast. I have undergone
 training in Indian classical music as a vocalist for about ten years and plan to
