@@ -1,14 +1,13 @@
 stages:
-#    - build
     - deploy
 
 pages:
     stage: deploy
     before_script:
         - gem install jekyll
-        - gem install jekyll-paginate
-        - gem install jekyll-gist
+        - gem install jekyll-paginate && gem install jekyll-gist
     script:
+        - echo "deploying to gitlab pages"
         - jekyll build -d public
     artifacts:
         paths:
