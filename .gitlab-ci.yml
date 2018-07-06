@@ -4,8 +4,11 @@ stages:
 
 pages:
     stage: deploy
-    script:
+    before_script:
         - gem install jekyll
+        - gem install jekyll-paginate
+        - gem install jekyll-gist
+    script:
         - jekyll build -d public
     artifacts:
         paths:
