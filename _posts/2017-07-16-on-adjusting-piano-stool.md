@@ -3,7 +3,7 @@ layout: post
 title: On Adjusting the Height of a Piano Stool
 ---
 
-As a pianist, the first thing I do when I sit at a piano is adjusting the height
+As a pianist, the first thing I do when I sit at a piano is adjust the height
 of the stool so that I am comfortable while playing. A simple step, but one of
 paramount importance: too low, and my hands would start to ache midway through
 the performance; too high, and my legs would bump into the front of the piano
@@ -19,13 +19,10 @@ take ages to get the right height. So, adjusting the height of the stool is not
 something you want to do in front of an audience, as it breaks the 'flow' of the
 otherwise formal and 'elegant' (for a want of better words) performance.
 
-Generally, I adjust the height of the stool during the pre-concert rehearsal.
-Concerts with multiple performers usually have more than one stool so that
-performers can pre-adjust the height (performers with similar heights use the
-same stool; minor adjustments can be made during the concert). If I know that a
-tuner or someone else is going to touch the piano before the concert and after
-the rehearsal, I always tell them to leave the stool as it is. Most tuners do
-this, since many pianists are very particular about seat heights.
+Generally, I adjust the height of the stool on the day of the concert, just before
+the audience arrives. Concerts with multiple performers usually have more than one
+stool so that performers can pre-adjust the height (performers with similar
+heights use the same stool; minor adjustments can be made during the concert).
 
 I was performing at a concert a few weeks ago. The stool was set at the perfect
 height after the rehearsal at 5:30 PM. The concert started at 7. I arrived on
