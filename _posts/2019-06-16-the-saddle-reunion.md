@@ -130,15 +130,15 @@ was kept on hold for me, and had the agreed-upon price clearly marked. _Sigh_.
 
 I can't say I got back to riding as much as I used to back home during the
 year: most of it was riding to and from classes and events; rush-pedaling to
-D-Hall at 19.55 before it closed at 20.00, or to RA duty so that I wouldn't be
-late. During about half of the academic year, the weather was prohibitive too:
-with cold weather starting late October, and being mostly rained or snowed in
-on a lot of days up until February, there weren't too many days I could just
-go out for a ride. Of course, there was the usual time crunch one has during
-the semester. Additionally, riding on the actual road right outside campus
-meant I needed to know traffic laws, and understand road conventions. I had no
-idea about any of these other than what I could gather riding _shotgun_ in my
-friends' vehicles.
+D-Hall (the dining hall) at 19.55 before it closed at 20.00, or to RA duty so
+that I wouldn't be late. During about half of the academic year, the weather
+was prohibitive too: with cold weather starting late October, and being mostly
+rained or snowed in on a lot of days up until February, there weren't too many
+days I could just go out for a ride. Of course, there was the usual time crunch
+one has during the semester. Additionally, riding on the actual road right
+outside campus meant I needed to know traffic laws, and understand road
+conventions. I had no idea about any of these other than what I could gather
+riding _shotgun_ in my friends' vehicles.
 
 ![snowed-in-bike](https://i.imgur.com/Zpw03fh.jpg)
 
