@@ -3,14 +3,18 @@ layout: page
 title: About
 ---
 
-**Aalok Sathe** I am a student at the 
-[University of Richmond, VA](http://richmond.edu). I'm majoring in computer science and cognitive science, and minoring in math and linguistics.
-I'm interested in math, machines, linguistics, philosophy, neuroscience, football
-(soccer) and music (in no particular order), among other things. I'm a FOSS enthusiast. I have undergone
-training in Indian classical music as a vocalist for about ten years.
-I find organization within nature, and systems of all kinds, fascinating -- the complex
-human brain, computers, human society, the universe, to name a few.
-For more, you can visit my [webpage](https://aalok-sathe.github.io).
+**Aalok Sathe** I am a student at the
+[University of Richmond, VA](http://richmond.edu). I'm a computer science
+major and might end up also majoring in cognitive science or math.
+I also study linguistics.
+I'm interested in math, machines, linguistics, philosophy, neuroscience,
+football (soccer) and music (in no particular order), among other things. I'm a
+FOSS enthusiast. I have undergone training in Indian classical music as a
+vocalist, and have been learning Western voice at UR, where I also sing in the
+University mixed choir.
+I find organization within nature, and systems of all kinds, fascinating -- the
+complex human brain, computers, human society, the universe, to name a few.
+For more, you can visit my [webpage](https://aalok-sathe.gitlab.io).
 
 **Mandar Juvekar** I'm a 12th grade student in Pune, India. My interests include
 mathematics, computer science, and Western and Indian classical music. I am a
