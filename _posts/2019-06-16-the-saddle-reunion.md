@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "The saddle reunion"
+title: "The Saddle Reunion"
 ---
 
 
 It's been a long time since I've done any serious biking (cycling).
-The last few reasonable times remember are probably somewhere in 9th through
+The last few reasonable times I remember are probably somewhere in 9th through
 11th grades. At one point, before the 10th grade fever hitting my school year,
 I and my dad biked along with a large group along the Western coastline of
 Maharashtra, on a stretch of about 200 km. The route was scenic and at times
@@ -33,7 +33,7 @@ group too. The 'Pune Cycle Pratishthan', or so they called themselves, would
 ride from Law College, down Senapati Bapat road, merge onto the University
 road, and make a loop going all around on the outside of the campus, and would
 then ride into the University to the central canteen and eat the same old
-breakfast every morning: chai and _idli-vada-sambar_.
+breakfast every morning: _chai_ and _idli-vada-sambar_.
 
 ![pune-uni-back-gate](https://i.imgur.com/XR3yUOV.jpg)
 
