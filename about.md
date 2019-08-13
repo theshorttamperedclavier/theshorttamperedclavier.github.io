@@ -16,18 +16,18 @@ I find organization within nature, and systems of all kinds, fascinating -- the
 complex human brain, computers, human society, the universe, to name a few.
 For more, you can visit my [webpage](https://aalok-sathe.gitlab.io).
 
-**Mandar Juvekar** I'm a 12th grade student in Pune, India. My interests include
-mathematics, computer science, and Western and Indian classical music. I am a
-Google Code-In top 10 contributor for the
-[MovingBlocks](https://github.com/MovingBlocks) open source organization
-and have been actively involved in their [Terasology](http://terasology.org)
-project since then. I am currently working as a mentor for the organization for
-the [Google Summer of Code](https://summerofcode.withgoogle.com) competition. I
-have been training as a classical pianist for 6 years, have passed the
-Trinity College of London's piano exams up to grade 5 with distinction, and am
-currently working on the Associate of the Trinity College of London (ATCL)
-diploma in piano performance. I can also play the tabla, and have been receiving
-informal education in Hindustani classical music from Shardul.
+**Mandar Juvekar** I'm a rising sophomore at the [University of Rochester](http://rochester.edu)
+majoring in computer science and mathematics. My interests (as of June '19) lie in
+theoretical computer science, abstract algebra, mathematical logic, and formal semantics in artificial
+intelligence. I am currently working as a research assistant in a group focused
+on logical systems for natural language unerstanding, and am doing some
+independent mentored math research. I am also very interested in music,
+especially Western classical music, and have been training as a classical pianist
+for over 9 years. During the school semesters I'm taking piano lessons at the
+Eastman School of Music and am part of the University's chamber ensemble
+program. Apart from this I'm also a fairly active member of the Terasology
+Foundation, an open-source game development organization. For more, you can
+visit [my personal webpage](http://csug.rochester.edu/u/mjuvekar).
 
 **Shardul Chiplunkar** I'm a high-school senior originally from Pune, India, and
 currently in Fremont, CA. My interests include mathematics, computer science,
