@@ -8,7 +8,7 @@ incoming first-year students. The college goes to some lengths to customize the
 students' experience, to look out for them, and to make them feel like they are
 at the right place, like they _belong_. A small but potentially important part
 of this is to create door decorations, or simply, nametags to put on students'
-doors to mark their living spaces---spaces that are their very own (in addition
+names to mark their living spaces---spaces that are their very own (in addition
 to their roommates, of course). Additionally, 'door decs' are made uniform
 across a community, such as a small _pod_ within a hallway, an entire hallway,
 or even a floor, so that the residents of that community feel a sense of being
