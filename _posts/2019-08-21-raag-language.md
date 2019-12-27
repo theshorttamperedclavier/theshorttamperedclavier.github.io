@@ -19,7 +19,10 @@ seasonal suitability of various raags.)
 (Quick notation primer: Hindustani Classical Music (HCM) is based on relative
 pitch, with a movable tonic/'do'. The basic solfege syllables are _sa re ga ma
 pa dha ni_ essentially corresponding to _do re mi fa sol la ti_, and I will also
-refer to them as [degrees][2] of the scale.)
+refer to them as [degrees][2] of the scale. Another important note is that
+almost all melodic HCM instruments are continuous-pitch (in the hands of a good
+performer), especially the ones in a solo performance, even ones like the flute
+that don't seem like it.)
 
 Let's start with phonetics. The entire space of possible raags covers only
 12&nbsp;basic phones, the 12&nbsp;notes of the chromatic scale; the phonemes of
