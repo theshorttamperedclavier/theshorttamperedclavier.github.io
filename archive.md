@@ -3,6 +3,8 @@ layout: page
 title: Archives
 ---
 
+<ul id="archive">
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &mdash; [ {{ post.title }} ]({{ post.url }})
+<li>{{ post.date | date_to_string }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
