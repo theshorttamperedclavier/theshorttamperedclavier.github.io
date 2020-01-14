@@ -12,7 +12,7 @@ Google Code-In winners' trip as a mentor for the Terasology Foundation. I figure
 this would be a great time to write this up: better now than later (which,
 probably, might have meant never)! So here goes:
 
-### Orientation
+## Orientation
 
 As is the case with most college students, my year began with first-year
 orientation: a week of information sessions, socials, and events meant to
@@ -32,9 +32,9 @@ an occasional joke in our circle. Maybe this is just a University of Rochester
 thing. Either way, it's just a week, and it does have its fun
 moments, so it wasn't a bad way to kick off the year (and my college career).
 
-### Academics
+## Academics
 
-## Fall '18
+### Fall '18
 
 Classes started soon after orientation. For our first semester we were only
 allowed to take four full courses (usually 4 credit hours) plus three additional
@@ -74,7 +74,7 @@ an introductory real analysis course. The honors calculus series, and Prof.
 Gonek, are a big reason why I am now planning on doing a math major and getting
 involved in math research.
 
-## Spring '19
+### Spring '19
 
 In the spring I took five courses: honors calculus 2, formal systems in
 computation, computer organization, introductory linguistics, and music theory 2.
@@ -97,7 +97,7 @@ about them in much detail. Here's a sentence or two about each:
 The spring semester went by much more quickly than the fall, and I had
 significantly more work (both academic and extra-curricular) to do.
 
-### Research
+## Research
 
 I started contacting professors about getting involved in research at the
 beginning of the spring semester. I soon got in contact with Len Schubert
@@ -115,7 +115,7 @@ communation isn't quite as casual, but my RA (who was a senior) insisted that I
 try it, and after a couple visits I realized that most professors don't mind
 students visiting at all.
 
-### Music
+## Music
 
 Music is a big part of the University of Rochester experience, and I love that.
 From student recitals to a capella groups to concerts at Eastman Theater with
@@ -136,7 +136,7 @@ out themselves. I was part of a piano duet along with a friend.
 
 ![esm](https://i.imgur.com/PEhjIqe.jpg)
 
-### Clubs
+## Clubs
 
 For most of the fall semester I was involved in UR Makers, a club where students
 get togeter and... well, make things. I took part in the Pumpkin Launch with the
@@ -167,7 +167,7 @@ the end of the semester, I was elected to be the vice-president for Splash for
 the coming year. I'm excited for the coming semesters and the programs we plan
 to host during them: look out for blog posts about those :)
 
-### Campus Life
+## Campus Life
 
 The University of Rochester, as I learned quite quickly, has a very close-knit
 community. Despite having around 6000 students across all departments and
