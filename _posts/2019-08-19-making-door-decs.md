@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Generating Door Decs"
+author: Aalok
 ---
 
 At the beginning of each new academic year any typical college expects new
@@ -31,12 +32,12 @@ order to 'flash' the software on your device, and you keep staring at that
 script hoping it terminates any second. The developers probably realize this and
 for whatever reason, include some fun ASCII-art, usually just their stylized
 developer name or online identity, but sometimes it can be entertaining to see
-the stuff people come up with using just ASCII symbols. Last year, I went around 
+the stuff people come up with using just ASCII symbols. Last year, I went around
 hunting for some Python package to generate ASCII-art from text (I knew there
 had to be one). I kind of played around with it, didn't really do much other
 than including some ASCII art in the license prompt of some tiny program, and
 even forgot about it for a good semester, until this week, when I was told I
-should have my door decs ready soonish. 
+should have my door decs ready soonish.
 
 Well, why not write residents' names in ASCII-art then? I had to be efficient,
 however: the names shouldn't be too big, and so I'd rather fit many on a single
@@ -70,8 +71,7 @@ cutting out these prints and pasting them on the doors before move-in day.
  ____  __   _  _  ____      
 (_  _)(  ) ( \/ )(  __)     
   )(   )(  / \/ \ ) _)  _   
- (__) (__) \_)(_/(____)(_) 
+ (__) (__) \_)(_/(____)(_)
 
 
 ```
-

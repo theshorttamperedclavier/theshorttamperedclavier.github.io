@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Glass is Weird"
+author: Shardul
 ---
 
 This semester, I was lucky to get into MIT's beginner [glassblowing class][1],

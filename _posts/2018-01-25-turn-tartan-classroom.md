@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Turn Tartan! in the Classroom
+author: Shardul
 ---
 
 Apologies for the long blog hiatus for which 'college applications' may or may

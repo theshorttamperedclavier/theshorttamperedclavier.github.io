@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The semester's a stage
+author: Rujul
 ---
 
 Looking back at this semester- my second semester of college- I spent a lot of time on the performing arts. It was cumulatively my largest time commitment outside classes. Both  as a reflection for me and as a glimpse into what I did with my time in four months, this post is a review of the semester as a timeline of (mostly) performance arts events or work.

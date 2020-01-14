@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Customer Care"
+author: Shardul
 ---
 
 A little over four years ago, my school transitioned from paper-based prefect
@@ -128,7 +129,7 @@ No, without that symbol. It's a quotation mark.
 
 Finally he asked if I could send him the folder from my laptop so I zipped it
 and sent a Drive link. It contained exactly the same JAR that he had so I was
-skeptical of this action. (I have a 
+skeptical of this action. (I have a
 [couple](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 of
 [things](https://web.archive.org/web/20090412180717/http://www.stsc.hill.af.mil/CrossTalk/2008/01/0)

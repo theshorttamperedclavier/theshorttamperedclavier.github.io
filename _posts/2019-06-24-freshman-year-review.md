@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Year in Review
+author: Mandar
 ---
 
 Hello! I write this post after a long period of inactivity on the blog. This is
@@ -198,4 +199,3 @@ laptop at any moment now. So here's a generic picture of Rush Rhees Library on a
 winter's day to end the post. Meliora!
 
 ![meliora](https://i.imgur.com/E20RQfM.jpg)
-

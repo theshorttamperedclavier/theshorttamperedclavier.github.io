@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Adjusting the Height of a Piano Stool
+author: Mandar
 ---
 
 As a pianist, the first thing I do when I sit at a piano is adjust the height

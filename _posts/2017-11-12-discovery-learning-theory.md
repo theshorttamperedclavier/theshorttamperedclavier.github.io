@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Discovery-Based Learning: in Theory"
+author: Shardul
 ---
 
 *(Disclaimer: there's a huge body of research about this topic, which I do not

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "(Late) MathILy-Er Wrap-Up: Head Fakes"
+author: Shardul
 ---
 
 It's a Saturday morning, the last day of Root class, and all 25 MathILy-Er

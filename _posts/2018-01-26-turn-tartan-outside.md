@@ -1,6 +1,7 @@
 ---
 layout: post
 title: And Turn Tartan! Outside
+author: Shardul
 ---
 
 (continued from [my previous post][1])

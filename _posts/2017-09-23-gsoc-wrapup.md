@@ -1,6 +1,7 @@
 ---
 layout: post
 title: (Long Overdue) Google Summer of Code Wrap-Up
+author: Mandar
 ---
 
 Since Google Code-In 2016, I've been a frequent contributor to

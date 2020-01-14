@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Unconventional wanderings in the East"
+author: Aalok
 ---
 
 I may be writing this from the comfort of my home right now, but about a month ago,
-I was on the other side of India, i.e., near the East coast. I traveled with other 
+I was on the other side of India, i.e., near the East coast. I traveled with other
 enthusiasts and friends on a _study tour_, to Odisha. If you go about asking people in general
 about their thoughts on Odisha, chances are that they don’t know enough to even have
 an opinion on the topic, and just know that it is another state of India, somewhere in
@@ -20,7 +21,7 @@ perhaps for the time ever, and had conversations that went somewhat like this:
 [pointing at a location on the map]
 _"This area over here? We could go there. Sundargarh? Mayurbhanj?
 Yeah, let’s go there too. Where's the lake? What about this place over here?"_,
-and so on. 
+and so on.
 
 Finally we zeroed in on two
 districts, Mayurbhanj and Kandhamal, apart from an obligatory visit to Bhubaneswar,
@@ -38,7 +39,7 @@ unfamiliar, was unanticipated. While the landscape was mostly plains, mountains,
 farmlands, and wetlands, and combinations thereof, throughout, we could still feel a difference.
 Moving past Karnataka and then Andhra Pradesh, the mountains weren’t like the mountains we were
 used to, the farmlands weren’t the way we were comfortable seeing in a local train journey or road
-trip. 
+trip.
 
 I wouldn’t be doing justice to this post if I didn’t mention, if I may add, a very interesting
 incident that happened in the train. As the journey gained pace, we pulled out a set of playing

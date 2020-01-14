@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ron English, Artistic Genius"
+author: Shardul
 ---
 
 The first time I saw Ron English's art was in the documentary "[Super Size

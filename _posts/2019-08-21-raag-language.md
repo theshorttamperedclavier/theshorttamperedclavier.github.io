@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Raag is a Language"
+author: Shardul
 ---
 
 The concept of a _raag_ in Hindustani classical music seems a lot like a

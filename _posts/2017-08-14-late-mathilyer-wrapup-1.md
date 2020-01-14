@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "(Late) MathILy-Er Wrap-Up: Combinatorial Game Theory"
+author: Shardul
 ---
 
 I should have written this post around two weeks ago, when MathILy-Er actually
@@ -8,7 +9,7 @@ ended, but I didn't, and I'm tempted to rationalize this late update by claiming
 I was reflecting on my experiences but in reality I was too busy for reflection
 anyway. Anyway, here it is.
 
-Following up from 
+Following up from
 [my previous post about MathILy-Er]({{ site.baseurl }}{% post_url 2017-07-07-hello-from-mathilyer %}),
 the summer program was five weeks of intense mathematics at Willamette
 University, Salem, Oregon, the expository details of which you can read in the
@@ -58,7 +59,7 @@ and a variety of common so-called 'strategy games', but we
 didn't talk about those in much detail. A game that is central to CGT (for
 reasons that are kind of hard to explain in a short blog post) is
 [Nim](https://en.wikipedia.org/wiki/Nim)
-(which we called 
+(which we called
 '[zougxwuouang](https://en.wikipedia.org/wiki/Zugzwang)').
 We also
 talked about the popular boredom-buster

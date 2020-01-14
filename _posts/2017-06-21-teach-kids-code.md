@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teaching Kids to Code
+author: Shardul
 ---
 
 This is probably a topic that has been extensively discussed by people much more

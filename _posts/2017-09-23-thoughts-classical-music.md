@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Thoughts on Classical Music, or What We Know of it"
+author: Aalok, Mandar, and Shardul
 ---
 
 open 2017-09-17T16:50:00Z

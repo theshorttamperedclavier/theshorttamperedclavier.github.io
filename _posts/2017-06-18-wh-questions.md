@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "'Wh-' Questions"
+author: the authors
 ---
 
 *What is this?* This is a blog. We wanted to add adjectives like 'personal' or

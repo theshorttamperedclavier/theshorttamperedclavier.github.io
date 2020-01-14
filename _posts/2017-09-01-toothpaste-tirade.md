@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Toothpaste Tirade"
+author: Shardul
 ---
 
 A few days ago I had to buy toothpaste. Of course, in today's modern and rapidly

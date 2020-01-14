@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Let's Color a Graph (Not)"
+author: Shardul
 ---
 
 Here's a math problem you've probably heard about: I give you a graph---a

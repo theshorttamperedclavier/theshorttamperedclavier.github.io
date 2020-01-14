@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Architecture, Bayes, Computation"
+author: Shardul
 ---
 
 > Sometimes it seems as though each new step towards AI, rather than producing

@@ -444,3 +444,7 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+div.about-author {
+    font-weight: bold;
+}

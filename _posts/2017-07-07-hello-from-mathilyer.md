@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello from MathILy-Er!"
+author: Shardul
 ---
 
 Here's a blog post from Willamette University at Salem, Oregon! I'm currently at
