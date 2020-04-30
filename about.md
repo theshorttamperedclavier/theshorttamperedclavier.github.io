@@ -42,3 +42,6 @@ forms, including Hindustani classical vocal training, choir and a cappella,
 basic exposure to *tabla* and guitar, and experience with sound production and
 engineering. You can check out [my homepage](https://www.mit.edu/~shardulc/) for
 more.
+
+div class="about-author">Rujul Gandhi</div> I'm a sophomore at MIT
+majoring in linguistics and EECS (Electrical Engineering and Computer Science). Biology is another of my academic interests. In non-academic interests, I am involved in classical dance, [journalism](https://thetech.com/authors/rujul-gandhi), and the [MIT Educational Studies Program](esp.mit.edu), among other things. I also like to hike and write.
