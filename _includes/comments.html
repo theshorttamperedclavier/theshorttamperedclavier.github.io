@@ -28,7 +28,7 @@
 <!-- Comment form -->
 <div id="comment-form">
     <h3>Leave a Comment</h3>
-    <form method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+    <form method="POST" action="https://tstc-staticman.herokuapp.com/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
         <input name="options[redirect]" type="hidden" value="http://theshorttamperedclavier.github.io{{ page.url }}">
         <input name="options[slug]" type="hidden" value="{{ page.slug }}">
         <div>
