@@ -7,24 +7,25 @@ author: Shardul
 ## Quick Recipe --- Authentic Fried Plantain Dessert
 
 Good morning to all, myself Shardul, today I am going to tell you how to make
-the fried plantain dessert. I call it as "Pan Plantains". This is authentic
+the fried plantain dessert. I call it as 'Pan Plantains' (in my mother tongue
+Marathi it is called _kelyacha halwa_ केळ्याचा हलवा). This is authentic
 recipe from my hometown and it is great dessert item and healthy also. For those
 who are unfamiliar plantain is a vegetable like banana but it is not eaten just
 like that, but you have to cook it. It is not banana.
 
 ### Ingredients
 
-This much ingredients will be for four people.
+This much ingredients will be four people.
+<img class="right-inset" src="https://i.imgur.com/vdZk8vDm.jpg" style="width: 45%;"/>
  * 5 ripe plantains. When they are ripe the skin is becoming black. See the
-photo to the right.
-<img class="right-inset" src="https://i.imgur.com/vdZk8vDm.jpg" style="width: 30%;"/>
+photo to the right. In India they are sometimes called Kerala bananas.
  * ghee or clarified butter
  * 1 handful of unroasted cashews
  * 10 table spoons of sugar, but may be more or less depending on your taste and the plantain's taste
 
 ### Procedure
 
-First to prepare the cashews. In the picture it is cashews with the skin so we
+First to prepare the cashews. In the first picture it is cashews with the skin so we
 have to peel it. It is shown in the second picture. If your cashews don't have
 their skin then you don't have to peel it.
 
@@ -42,7 +43,7 @@ then the result.
 ![afterfrying][4]
 
 Now for the time being the cashews we will put to the side. Now we will look at
-the plantains. After their peeling, cut them vertically and then again
+the plantains. After peeling, cut them vertically and then again
 vertically at 90 degrees. I mean to make two perpendicular cuts in the plantain
 in lengthwise direction. And then if you cut slices as normal, it will be cut
 into four parts. I think it will be more clearer in the pictures.
@@ -72,9 +73,15 @@ it is like the picture below.
 
 ![browned][10]
 
-It is done! Just add the cashews from before and serve it when it is hot. And it
-does not have to be dessert also. We can eat with _chapatis_. But if you want to
-give different touch you try with vanilla ice cream. I have not tried.
+It is done! Just add the cashews from before and serve it when it is hot.
+
+### Variations
+
+It does not have to be dessert also. We can eat with _chapatis_. But if you want
+to give different touch you try with vanilla ice cream. I have not tried. Some
+people put almonds instead of cashews or put both. And you can also add the
+spice with cardamom (_elaichi_), cinnamon (_dalchini_), etc. but I think it is
+best as a simple wholesome dish.
 
 
   [1]: https://i.imgur.com/v3ZzzOSm.jpg
