@@ -30,18 +30,12 @@ Foundation, an open-source game development organization. For more, you can
 visit [my personal webpage](http://csug.rochester.edu/u/mjuvekar).
 
 <div class="about-author">Shardul Chiplunkar</div> I'm an MIT '22 undergrad from Pune, India, but also from
-the Bay Area, California. My academic interests are somewhere in the
-neighborhood of math, computer science, linguistics, and cognitive science,
-somewhere that I don't yet have a good word for! My favorite description so far
-is that I want to study how intelligence arises and functions, whether it be
-physically in a human brain, virtually in an artificial intelligence, or
-formally in a mathematical system. Apart from that, I enjoy Hindustani classical
-music, typesetting with LaTeX, playing table tennis, science fiction, teaching
-math, and thoughtful discussions. I've been involved with music in various
-forms, including Hindustani classical vocal training, choir and a cappella,
-basic exposure to *tabla* and guitar, and experience with sound production and
-engineering. You can check out [my homepage](https://www.mit.edu/~shardulc/) for
-more.
+the Bay Area, California. My academic interests are, broadly, studying 'intelligent' systems—human
+cognition, formal languages, AI; I'm interested in discrete mathematics, computational cognitive science,
+programming language theory, linguistic semantics and pragmatics, information theory. Apart from that, I
+enjoy Hindustani classical music, typesetting with LaTeX, teaching, thoughtful discussions, playing table
+tennis, science fiction, and spinning fire. You can check out [my homepage](https://www.mit.edu/~shardulc/)
+for more.
 
 <div class="about-author">Rujul Gandhi</div> I'm a sophomore at MIT
 majoring in linguistics and EECS (Electrical Engineering and Computer Science). Biology is another of my academic interests. In non-academic interests, I am involved in classical dance, [journalism](https://thetech.com/authors/rujul-gandhi), and the [MIT Educational Studies Program](esp.mit.edu), among other things. I also like to hike and write.
