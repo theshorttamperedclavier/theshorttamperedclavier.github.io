@@ -27,7 +27,7 @@ for over 9 years. During the school semesters I'm taking piano lessons at the
 Eastman School of Music and am part of the University's chamber ensemble
 program. Apart from this I'm also a fairly active member of the Terasology
 Foundation, an open-source game development organization. For more, you can
-visit [my personal webpage](http://csug.rochester.edu/u/mjuvekar).
+visit [my personal webpage](https://cs-people.bu.edu/mandarj/).
 
 <div class="about-author">Shardul Chiplunkar</div> I'm an MIT '22 undergrad from Pune, India, but also from
 the Bay Area, California. My academic interests are, broadly, studying 'intelligent' systems—human
